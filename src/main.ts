@@ -16,3 +16,6 @@ new Phaser.Game({
   },
   scene: [MainScene] // 배열로 scene 넣음. 여기에 넣으면 인스턴스 만들어짐 맨 처음 scene부터 생명주기 타기 시작함
 })
+
+
+console.log('fdsafsadsdas')
